@@ -1,2 +1,3 @@
-Hallo-Github
-Das ist also Github
+# Hallo-Github
+
+Hallo. Ich bin Tom!
