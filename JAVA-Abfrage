@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("Wie geht es dir?");
+		String gefühl = scanner.nextLine();
+		System.out.println("Dir geht es also " +gefühl +"!");
+		
+		System.out.println("Wie alt bist du?");
+		String age = scanner.nextLine();
+		System.out.print("Du bist" +age+ " Jahre alt");
+	}
+
+}
